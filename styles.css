@@ -1,0 +1,268 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.landing{
+    margin-top: 100px;
+    float: left;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+}
+.hero{
+    text-decoration: none;
+    margin-left: 110px;
+    color: blue;
+}
+.wrap{
+    text-decoration: none;
+    margin-left: 40px;
+    color: blue;
+}
+.wave{
+    text-decoration: none;
+    margin-left: 40px;
+    color: blue;
+}
+.brave{
+    text-decoration: none;
+    margin-left: 650px; 
+    color: white;
+    background-color: navy;
+    padding: 5px 20px;
+}
+.wrapper{
+  color: blue;
+  margin: 0 150px; 
+  width: 500px;
+  
+}
+.classy{
+    margin-bottom: 0;
+    margin-left: 150px;
+    font-size: 30px;
+    color: navy;
+}
+.gracia{
+    margin-top: 0;
+    margin-left: 150px;
+    font-size: 30px;
+    color: navy;
+}
+.git{
+    background-color: navy;
+    color: white;
+    padding: 5px 20px;
+    text-decoration: none;
+    margin-left: 70px;
+}
+.box{
+padding: 5px 20px;
+height: 10px;
+border: 2px solid navy;
+text-decoration: none;
+color: navy;
+}
+.design{
+    display: flex;
+    margin-top: 50px;
+}
+.manifest{
+  list-style-type: none;
+  margin-left: 40px;
+}
+
+#img{
+   background-image: url("designer_1.png");
+   background-size: 700px;
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   float: right;
+   margin-left: 700px;
+   background-repeat: no-repeat;
+}
+.jumbotron{
+    height: 100%;
+    width: 100%;
+    margin-bottom: 60px;
+}
+.show{
+  display: flex;
+}
+.bord{
+    margin-left: 150px;
+    color: navy;
+}
+.card{
+    margin: 0 150px; 
+    width: 400px;
+    color: blue; 
+}
+.forward{
+    margin-top: 200px;
+}
+.web{
+    display: flex;
+}
+.flower{
+ margin-right: 10px;
+ color: blue; 
+ width: 400px;
+}
+.flow{
+    margin-right: 100px; 
+    color: blue;
+    width: 400px; 
+}
+.waver{
+    padding-left:150px;
+    padding-top: 80px;
+}
+.bend{
+    color: navy;
+}
+.hope{
+    padding-top: 80px;
+} 
+.golden{
+    display: flex;
+}
+.float{
+    margin: 20px;
+}
+.flutter{
+    margin-left: 230px;
+    color: navy; 
+}
+.flat{
+    margin-left: 230px;
+    color: blue;
+    margin-right: 200px; 
+}
+.tap{
+    padding-left: 100px;
+}
+.goodies{
+    padding-top: 200px;
+}
+.paint{
+    padding-top: 150px;
+}
+.flut{
+    margin-left: 200px;
+    color: navy;
+}
+.flew{
+    margin-left: 200px;
+    color: blue;
+    margin-right: 200px; 
+}
+.fresh{
+    background-color: navy;
+    color: white;
+    text-decoration: none;
+    margin-left: 200px;
+    padding: 5px 20px;
+}
+#freeze{
+background-image:url("Rectangle.png");
+width: 100%;
+height: 600px;
+background-repeat: no-repeat;
+}
+.flopper{
+padding-top: 150px;
+text-align: center;
+}
+.top{
+   color: blue;
+   margin-left: 480px;
+   width: 400px;
+}
+.flopp{
+    text-align: center;
+    padding-top: 40px;
+}
+.bottle{
+    font-size:40px;
+    color: navy;
+    margin-bottom: 0;
+}
+.bouque{
+  color: blue;
+  margin-top: 0;
+}
+.facial{
+    color: navy;
+}
+.flop{
+   text-align: center;
+   padding-top: 30px;  
+}
+.plans{
+    text-decoration: none;
+    background-color: navy;
+    padding: 10px 20px;
+    color: white;
+    margin-top: 10px;
+}
+#glass{
+    background-image:url("Rectangle (1).png");
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    color: black;
+}
+.famous{
+    display: flex;
+}
+.minor{
+    padding-left: 90px;
+    color: blue;
+}
+.extension{
+    margin-left: 420px;
+    color: blue;
+}
+.extend{
+    margin-left: 400px;
+   text-decoration: none;
+   color: white;
+   background-color: navy;
+   padding: 5px 15px;
+}
+.line{
+    margin: 5px;
+    color: lightskyblue;
+    border-bottom: 1px solid #87cefa;
+}
+.employ{
+  list-style-type: none;
+}
+.peng{
+  text-decoration: none;
+ }
+.perg{
+  text-decoration: none;
+  margin-left: 70px;
+}
+.sucket{
+    display: flex;
+}
+.watch{
+    padding: 40px 20px;
+    display: flex;
+}
+.tint{
+    display: flex;
+}
+.metro{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.border{
+    margin: 0 10px;
+}

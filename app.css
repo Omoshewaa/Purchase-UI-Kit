@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.hero{
+    text-decoration: none;
+    padding: 0 20px;
+    color: blue;
+}
+.wrap{
+    text-decoration: none; 
+    padding: 0 20px; 
+     color: blue;
+}
+.wave{
+    text-decoration: none; 
+    padding: 0 25px;
+     color: blue;   
+}
+.list{
+    list-style-type: none;
+    display: flex;
+   justify-content: end;
+   padding-top: 10px;
+}
+.landing{
+   color: navy;
+    margin: 50px 60px 0 60px;
+}
+.land{
+    color: blue;
+     margin-left: 60px;
+     width: 500px;
+}
+.metro{
+    display: flex;
+}
+#flex{
+    display: flex;
+}
+.flaws{
+    position: absolute;
+    top: 0;
+}
+.bottle{
+    padding: 10px 450px;
+    overflow: hidden;
+}
+.sport{
+    margin: 50px 60px 0 60px;
+}
+.flower{
+  color: navy;
+  margin-left: 50px;
+}
+.flow{
+    color: blue;
+    margin-left: 50px;
+    width: 400px;
+}

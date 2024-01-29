@@ -1,0 +1,76 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+.landing{
+    list-style-type: none;
+}
+.metro{
+    text-decoration: none;
+    margin-right: 30px;
+}
+.bottle{
+    display: flex;
+}
+.wave{
+    padding-left: 1000px;
+}
+.fleet{
+    color: blue;
+    margin: 15px 100px;
+    width: 400px;
+}
+.flew{
+    color: navy;
+    margin: 0 100px;
+}
+.flet{
+    color: navy;
+    margin-left: 100px;
+    margin-top: 100px; 
+}
+.flame{
+    margin-left: 3px;
+    margin-top: 50px; 
+}
+.flam{
+    margin-left: 2px;
+    margin-top: 50px; 
+}
+.burnt{
+    color: navy;
+     margin-left: 1px;
+}
+.column{
+  display: flex;
+  padding: 0 20px;
+}
+.git{
+    color: blue;
+    margin: 0 70px;
+    width: 300px;
+}
+.flys{
+    color: navy;
+    width: 300px;
+}
+.query{
+    display: flex;
+}
+.gite{
+    color: blue;
+    margin: 0 70px;
+    width: 300px;
+}
+#pafe{
+   display: flex;
+   width: 100%;
+   padding: 10px;
+}
+.show{
+    display: flex;
+}
+.pafe{
+    margin-left: 25px;
+}
